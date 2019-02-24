@@ -6,10 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="kyrem1" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kyrem1/ai-projects.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Github Projects" />
   </component>
 </application>
