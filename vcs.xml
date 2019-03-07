@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/kyrem1/ai-projects.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kyrem1/NEAT-Implementation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Github Projects" />
+    <option name="cloneParentDir" value="C:\Users\James Harbour\Desktop\Programming\Java" />
   </component>
 </application>
